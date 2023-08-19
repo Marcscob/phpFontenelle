@@ -1,5 +1,5 @@
 <?php
-    $_salada = array["Laranja","Uva","Abacate"];
+    $_salada = array("Laranja","Uva","Abacate");
 ?>
 
 <!doctype html>
