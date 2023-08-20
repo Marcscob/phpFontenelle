@@ -1,5 +1,5 @@
 <?php
-$dia = "terça";
+$dia = "domingo";
 ?>
 
 <!DOCTYPE html>
@@ -27,6 +27,9 @@ $dia = "terça";
 
         case "sexta":
             echo "hoje é sexta";
+
+        default:
+            echo "é fds";
     }
 
     ?>
